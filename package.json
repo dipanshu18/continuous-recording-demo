@@ -9,6 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@siteed/expo-audio-studio": "^2.18.5",
+    "buffer": "^6.0.3",
     "expo": "~55.0.4",
     "expo-audio": "~55.0.8",
     "expo-status-bar": "~55.0.4",
